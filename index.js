@@ -1,2 +1,3 @@
 // Write your code in this file!
-excitedWelcomeBook="Welcome to Klossy Book!"
+let 
+excitedWelcomeBook="Welcome to KlossyBook!"
